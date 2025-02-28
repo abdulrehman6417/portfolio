@@ -57,7 +57,7 @@ const About = () => {
                     className="size-16 flex flex-col items-center gap-2"
                   >
                     <img
-                      src={`../../src/assets/${item}.png`}
+                      src={`/assets/${item}.png`}
                       alt=""
                       className="bg-gradient-to-br from-violet-800 to-cyan-900 p-2 rounded-lg border 
                     border-white/60"
@@ -75,7 +75,7 @@ const About = () => {
             <div className="rounded-xl border-white/10 border-2 p-6 hover:scale-102 transition-all">
               <h3 className="text-xl font-medium mb-4 flex items-center gap-2">
                 <span>
-                  <img src="../../src/assets/book.png" alt="" className="w-6" />
+                  <img src="/assets/book.png" alt="" className="w-6" />
                   {/* <IoBookSharp size={25} /> */}
                 </span>
                 Education
@@ -96,11 +96,7 @@ const About = () => {
             <div className="rounded-xl border-white/10 border-2 p-6 hover:scale-102 transition-all">
               <h3 className="text-xl font-medium mb-4 flex items-center gap-2">
                 <span>
-                  <img
-                    src="../../src/assets/coding.png"
-                    alt=""
-                    className="w-6"
-                  />
+                  <img src="/assets/coding.png" alt="" className="w-6" />
                   {/* <RiComputerFill size={25} /> */}
                 </span>
                 Work Experience

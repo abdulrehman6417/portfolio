@@ -84,23 +84,6 @@ const Home = () => {
                   </span>
                 </div>
               </button>
-
-              {/* LINKEDIN BUTTON */}
-
-              {/* <button className="group relative w-10 h-10 hover:w-[150px] p-[3px] rounded-full font-medium bg-gradient-to-r from-red-500 via-pink-500 to-violet-700 transition-all duration-300 overflow-hidden">
-            <div className="bg-gray-800 rounded-full w-full h-full flex items-center justify-center px-3 transition-all duration-300 relative">
-              <img
-                src="../../src/assets/linkedin.png"
-                className="absolute transition-all duration-300 group-hover:opacity-0 group-hover:scale-0"
-              />
-
-              <span className="text-[15px] text-white opacity-0 scale-0 group-hover:opacity-100 group-hover:scale-100 transition-all duration-300">
-                <a href="https://github.com/abdulrehman6417" target="_blank">
-                  Visit LinkedIn
-                </a>
-              </span>
-            </div>
-          </button> */}
             </div>
           </div>
 
