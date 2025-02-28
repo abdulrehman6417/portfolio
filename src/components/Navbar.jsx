@@ -52,7 +52,7 @@ const Navbar = ({ menuOpen, setMenuOpen }) => {
               Contact
             </a>
             <a
-              href="/Abdulrehman_2.pdf"
+              href="https://drive.google.com/file/d/1bvWurGcqcjwHwApZW6Ejeao3xIPHgp4v/view?usp=sharing"
               download="AbdulRehman Resume"
               className="text-[17px] font-medium text-gray-300 hover:text-white transition-colors "
             >
